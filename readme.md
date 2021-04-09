@@ -1,4 +1,5 @@
-Partisipants:
+Participants:
 Alexandra
-Lez
-Bestim
+Leszek
+Besim
+Mattias
